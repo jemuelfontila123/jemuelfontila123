@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jemuel (you can call me Jim) 👋
 
 <!--
 **jemuelfontila123/jemuelfontila123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
