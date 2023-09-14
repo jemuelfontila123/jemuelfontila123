@@ -8,7 +8,7 @@
 </a>
 
 
-- 🌱 I’m currently Working on Appointment/Schedule System of a Gig in Manila
+- 🌱 I’m currently Working on Appointment/Schedule System for a Client
 
 - 🤝 I’m available for freelancing.
 
