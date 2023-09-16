@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jemuel</a></h1>
-<h3 align="center">Passionate Software Developer &#127470;&#127475</h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 
 
